@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ISanjeevKumar
-- 👀 I’m interested in 
+- 👀 I’m interested in test automation , open source contribution and security testing.
 - 🌱 I’m currently learning Playwright test automation
-- 💞️ I’m looking to collaborate on open source project for test automation tool
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/sanjeev-kumar-7827324b/
 
 <!---
