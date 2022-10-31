@@ -1,13 +1,6 @@
 ### 👋 Hi, I’m @ISanjeevKumar
 
- - 7.3 years of experience in the field of IT with focus on Automation Testing
- - Proficient in Web Automation using Selenium WebDriver, Protractor, WebDriverIO, Playwright and Cypress
- - Proficient in Desktop Apps Automation using WinAppDriver and HP QTP
- - Proficient in API automation using RestSharp, Restassured and HttpClient
- - Proficient in Security Testing using OWASP ZAP tool
- - Performance testing using Gatling and K6
- - Mobile Test automation using Appium
- - Furthermore, I am a blogger and I write about my experiences and learnings on Medium.
+With 7.3 years of experience in the field of IT, I specialize in Automation Testing. I am also a blogger and I write about my experiences and learnings.
 
 ## Skills
 - [x] Cypress with TypeScript and JavaScript
@@ -19,22 +12,11 @@
 - [x] Exploratory Testing
 - [x] Vulnerability Testing with OWASP ZAP 
 
-## Programming language: 
-* Java
-* C#
-* TypeScript
-* JavaScript
-* Python [Beginner]
-* VbScript
-
-## CI/CD tools
-* Docker
-* Kubernetes
-* Azure
-* Jenkins
-* GitHub Actions
-
 ## Open-Source Contribution Projects
 * Cypress-Parallel
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sanjeev-kumar-7827324b//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@iamsanjeevkumar)  
+
+
 
 ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISanjeevKumar&hide=contribs,prs)
