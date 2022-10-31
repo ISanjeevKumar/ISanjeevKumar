@@ -5,6 +5,7 @@ With 7.3 years of experience in the field of IT, I specialize in Automation Test
 ## Skills
 - [x] Cypress with TypeScript and JavaScript
 - [x] Playwright with TypeScript and JavaScript
+- [x] WebDriverIO with TypeScript and JavaScript
 - [x] Selenium with Java and C#
 - [x] WinAppDriver 
 - [x] API Automation with HttpClient , RestSharp and RestAssured
