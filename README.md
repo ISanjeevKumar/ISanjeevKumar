@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @ISanjeevKumar
 
-With 7+ years of experience in the field of IT, I specialize in Automation Testing. I am also a blogger and I write about my experiences and learnings.
+With 9 years of experience in the field of IT, I specialize in Automation Testing. I am also a blogger and I write about my experiences and learnings.
 
 ## Skills
 - [x] Cypress with TypeScript and JavaScript
